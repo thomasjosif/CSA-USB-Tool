@@ -3,7 +3,7 @@ NI-LabVIEW,ni-frc-2024-base-suite_24.0.0.49158-0+f6_offline.iso,https://download
 NI-GameTools,ni-frc-2024-game-tools_24.0.2_offline.iso,https://download.ni.com/support/nipkg/products/ni-f/ni-frc-2024-game-tools/24.0/offline/ni-frc-2024-game-tools_24.0.2_offline.iso,f81d8f9a2b472ca3b0bee9d0866e6852,FALSE
 NI-CompactRIO Driver,ni-compactrio-device-drivers_24.0.0.49260-0+f108_offline.iso,https://download.ni.com/support/nipkg/products/ni-c/ni-compactrio-device-drivers/24.0/offline/ni-compactrio-device-drivers_24.0.0.49260-0+f108_offline.iso,a76eef4d5d81d9f01a1c2ea860ba170a,FALSE
 NI-System Configuration,ni-system-configuration_24.0.0_offline.iso,https://download.ni.com/support/nipkg/products/ni-s/ni-system-configuration/24.0/offline/ni-system-configuration_24.0.0_offline.iso,952156ec99ed9b15fb38be981ee0600f,FALSE
-WPILibInstaller_Windows64,WPILib_Windows-2024.3.1.iso,https://packages.wpilib.workers.dev/installer/v2024.3.1/Win64/WPILib_Windows-2024.3.1.iso,781408b02146fde5a8275f31bd55a23c,FALSE
+WPILibInstaller_Windows64,WPILib_Windows-2024.3.2.iso,https://packages.wpilib.workers.dev/installer/v2024.3.2/Win64/WPILib_Windows-2024.3.2.iso,9d54e02fb6c049558ddb4520249beb46,FALSE
 WPILib VSCode Windows Archive,VSCode-1.85.1-Windows.zip,https://update.code.visualstudio.com/1.85.1/win32-x64-archive/stable,5621fc9203a0468f9270e2151ac2cdea,TRUE
 Password,2024Password.txt,https://raw.githubusercontent.com/JamieSinn/CSA-USB-Tool/master/2024Password.txt,d7928437a4d75c6ee83720dc4300d1b1,FALSE
 CTRE Latest Firmware,ctr-device-firmware.zip,https://github.com/CrossTheRoadElec/Phoenix-Releases/raw/master/ctr-device-firmware.zip,00000000000000000,TRUE
@@ -14,17 +14,18 @@ RadioConfigTool,FRC_Radio_Configuration_24_0_1.zip,https://firstfrc.blob.core.wi
 RadioConfigTool Israel,FRC_Radio_Configuration_24_0_1_IL.zip,https://firstfrc.blob.core.windows.net/frc2024/Radio/FRC_Radio_Configuration_24_0_1_IL.zip,4309bff08b61bc6bfb36e946ed1cf6d7,TRUE
 2024Manual,2024GameManual.pdf,https://firstfrc.blob.core.windows.net/frc2024/Manual/2024GameManual.pdf,00000000000000000,FALSE
 NavX,navx-mxp.zip,https://www.kauailabs.com/public_files/navx-mxp/navx-mxp.zip,00000000000000000,TRUE
-REV Hardware Client w/ FRC firmware,REV-Hardware-Client-Setup-1.6.4-offline-FRC-2024-02-17.exe,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.6.4/REV-Hardware-Client-Setup-1.6.4-offline-FRC-2024-02-17.exe,c03a4fcf1baafef68bf40db626125aee,FALSE
+REV Hardware Client w/ FRC firmware,REV-Hardware-Client-Setup-1.6.6-offline-FRC-2024-04-12.exe,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.6.6/REV-Hardware-Client-Setup-1.6.6-offline-FRC-2024-04-12.exe,3655ffb3176637e9fb1e061d810c1a00,FALSE
 REVLib LabVIEW API,REVLib-labVIEW-2024.2.0-0_windows_all.nipkg,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/revlib-2024.2.0/REVLib-labVIEW-2024.2.0-0_windows_all.nipkg,9dcb8aa105fcf306c2ae96d7c286cafe,FALSE
-REVLib Java/C++ API,REVLib-offline-v2024.2.3.zip,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/revlib-2024.2.3/REVLib-offline-v2024.2.3.zip,13662439d41f652d01049792007f5903,TRUE
+REVLib Java/C++ API,REVLib-offline-v2024.2.4.zip,https://github.com/REVrobotics/REV-Software-Binaries/releases/download/revlib-2024.2.4/REVLib-offline-v2024.2.4.zip,5bedfe205eb3b72c75bc81c87e9dc808,TRUE
 ReduxLib Offline,ReduxLib-offline-v2024.1.1.zip,https://frcsdk.reduxrobotics.com/offline/ReduxLib-offline-v2024.1.1.zip,5a30ebbfb3780f7edcd582821b33437b,TRUE
 Redux Alchemist,Redux-Alchemist-Setup-2023.0.1.exe,https://github.com/Redux-Robotics/Alchemist/releases/download/v2023.0.1/Redux-Alchemist-Setup-2023.0.1.exe,a67befd08fd3473f0eca4e91a43e4d42,FALSE
 DotNet4.8,NDP462-KB3151800-x86-x64-AllOS-ENU.exe,https://download.visualstudio.microsoft.com/download/pr/2d6bb6b2-226a-4baa-bdec-798822606ff1/8494001c276a4b96804cde7829c04d7f/ndp48-x86-x64-allos-enu.exe,7d2b599470e34481138444866b7e4ea6,FALSE
 Python 3.7.2,python-3.7.2.exe,https://www.python.org/ftp/python/3.7.2/python-3.7.2.exe,38156b62c0cbcb03bfddeb86e66c3a0f,FALSE
 Python 3.11.2,python-3.11.2-amd64.exe,https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe,4331ca54d9eacdbe6e97d6ea63526e57,FALSE
 Limelight Hardware Manager,LimelightHardwareManagerSetup1_3_0.exe,https://downloads.limelightvision.io/software/LimelightHardwareManagerSetup1_3_0.exe,17bcbd5c25ccf8ff11c5ed63bcc532b1,FALSE
-Limelight v1 v2 v2+ 2024.1.1,limelight2_2024_1_1.zip,https://downloads.limelightvision.io/images/limelight2_2024_1_1.zip,11222eba60056a0d6117f1dcdc7f668b,TRUE
-Limelight v3 2024.1.1,limelight3_2024_1_1.zip,https://downloads.limelightvision.io/images/limelight3_2024_1_1.zip,08b9f0325934b92890f8b769be268868,TRUE
+Limelight v1 v2 v2+ 2024.3.4,limelight2_2024_3_4.zip,https://downloads.limelightvision.io/images/limelight2_2024_3_4.zip,f58a0c2fb075fbf3f58564411848fc08,TRUE
+Limelight v3 2024.3.4,limelight3_2024_3_4.zip,https://downloads.limelightvision.io/images/limelight3_2024_3_4.zip,6441f0449ed9d1d3cc547275c0434b87,TRUE
+Limelight v3G 2024.3.4,limelight3g_2024_3_4.zip,https://downloads.limelightvision.io/images/limelight3g_2024_3_4.zip,bcf9ca59cbf3cf621dad18f45823c901,TRUE
 Limelight USB Driver,rpiboot_setup.exe,https://github.com/raspberrypi/usbboot/raw/master/win32/rpiboot_setup.exe,f292c52cffaf65e16fb7aead6abe7ddf,FALSE
 7-Zip,7z2301-x64.exe,https://www.7-zip.org/a/7z2301-x64.exe,e5788b13546156281bf0a4b38bdd0901,FALSE
 FRC-Docs,docs-wpilib-org-en-stable.pdf,https://docs.wpilib.org/_/downloads/en/stable/pdf/,00000000000000000,FALSE
